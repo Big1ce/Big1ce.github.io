@@ -1,0 +1,72 @@
+---
+layout:     post
+title:      "For you"
+subtitle:   "Good Night"
+date:       2019-08-16
+author:     "Big1ce"
+header-img: "img/404-bg.jpg"
+tags:
+    - Darling
+
+---
+
+> I will update this document every night.
+
+
+## The Day
+
+[Day_1](#Day_1)
+[Day_2](#Day_2)
+[Day_3](#Day_3)
+[Day_4](#Day_4)
+
+---
+<p id = "Day_1"></p>
+
+## Day_1
+
+
+> **Dear Baby~** This is my first blog..
+
+
+It is for you. I want you know that every night before going to bed to listen to you say good night, belongs to me, the most simple and lasting happiness. Good night my darling~
+
+---
+<p id = "Day_2"></p>
+
+## Day_2
+
+
+> **Dear Baby~** This is my second blog..
+
+
+It is also for you. You are the star which lighting up my firmament and my dream. Good night my darling~
+
+---
+<p id = "Day_3"></p>
+
+## Day_3
+
+
+> **Dear Baby~** This is my third blog..
+
+
+It is always for you and only you. One day, we will never have to say good night, only kiss. Good night my darling~
+
+---
+<p id = "Day_4"></p>
+
+## Day_4
+
+
+> **Dear Baby~** This is not the blog.I can not fix my blog today,i am so sorry.
+
+
+And now,I am reciving the love from you,we have telesthesia,forever. Good night my darling~
+
+---
+
+
+
+
+未完待续......
