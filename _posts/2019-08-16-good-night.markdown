@@ -53,10 +53,10 @@ You are the star which lighting up my firmament and my dream. Good night my darl
 ## Day_3
 
 
-> **Dear Baby~** This is my third blog..
+> **Dear Baby~** This is my third blog.It is always for you and only you.
 
 
-It is always for you and only you. One day, we will never have to say good night, only kiss. Good night my darling~
+One day, we will never have to say good night, only kiss. Good night my darling~
 
 ---
 <p id = "Day_4"></p>
@@ -75,7 +75,7 @@ And now,I am reciving the love from you,we have telesthesia,forever. Good night 
 ## Day_5
 
 
-> **Dear Baby~** This is my fourth blog!
+> **Dear Baby~** This is my fifth blog!It is for you.
 
 
 I felt very sad when I heard that you were depressed.If I could, I would wrap my arms around you and just hold you until the depressed went away.I miss you. Good night my darling~
