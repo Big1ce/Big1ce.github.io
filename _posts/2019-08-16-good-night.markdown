@@ -91,7 +91,7 @@ I felt very sad when I heard that you were depressed.If I could, I would wrap my
 > **Dear Baby~** This is my sixth blog.It is for you.
 
 
-Today is an ordinary day,just like many other days which I missing you.But,I have changed it!Because of tonight,I love you three thousand times.Good night my darling~
+Today is an ordinary day,just like many other days which I missing you.But,I have changed it!Because of tonight,I love you three thousand.Good night my darling~
 
 ---
 
