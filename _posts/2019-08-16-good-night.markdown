@@ -25,6 +25,8 @@ tags:
 
 [Day_5](#Day_5)<br>
 
+[Day_6](#Day_6)<br>
+
 ---
 <p id = "Day_1"></p>
 
@@ -79,6 +81,17 @@ And now,I am reciving the love from you,we have telesthesia,forever. Good night 
 
 
 I felt very sad when I heard that you were depressed.If I could, I would wrap my arms around you and just hold you until the depressed went away.I miss you. Good night my darling~
+
+---
+<p id = "Day_6"></p>
+
+## Day_6
+
+
+> **Dear Baby~** This is my sixth blog.It is for you.
+
+
+Today is an ordinary day,just like many other days which I missing you.But,I have changed it!Because of tonight,I love you three thousand times.Good night my darling~
 
 ---
 
