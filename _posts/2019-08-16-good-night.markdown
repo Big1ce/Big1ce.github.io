@@ -27,6 +27,7 @@ tags:
 
 [Day_6](#Day_6)<br>
 
+[Day_7](#Day_7)<br>
 ---
 <p id = "Day_1"></p>
 
@@ -92,6 +93,17 @@ I felt very sad when I heard that you were depressed.If I could, I would wrap my
 
 
 Today is an ordinary day,just like many other days which I missing you.But,I have changed it!Because of tonight,I love you three thousand.Good night my darling~
+
+---
+<p id = "Day_7"></p>
+
+## Day_7
+
+
+> **Dear Baby~** This is my seventh blog.It is for you.
+
+
+Unconsciously,We have built a big home in our's craft.We building,ploughing,digging and adventuring.We have too many memories there.We had thinked that 'this dream is over' many times.But,is it really over? I don't know. Good night my darling~
 
 ---
 
