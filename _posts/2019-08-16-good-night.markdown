@@ -29,6 +29,8 @@ tags:
 
 [Day_7](#Day_7)<br>
 
+[Day_8](#Day_8)<br>
+
 ---
 <p id = "Day_1"></p>
 
@@ -105,6 +107,17 @@ Today is an ordinary day,just like many other days which I missing you.But,I hav
 
 
 Unconsciously,We have built a big home in our's craft.We building,ploughing,digging and adventuring.We have too many memories there.We had thinked that 'this dream is over' many times.But,is it really over? I don't know. Good night my darling~
+
+---
+<p id = "Day_8"></p>
+
+## Day_8
+
+
+> **Dear Baby~** This is my eighth blog.It is for you.
+
+
+You are an enduring light in the bottom of my heart.You are the one. Good night my darling~
 
 ---
 
