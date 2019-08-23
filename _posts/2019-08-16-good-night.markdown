@@ -31,6 +31,8 @@ tags:
 
 [Day_8](#Day_8)<br>
 
+[Day_9](#Day_9)<br>
+
 ---
 <p id = "Day_1"></p>
 
@@ -118,6 +120,16 @@ Unconsciously,We have built a big home in our's craft.We building,ploughing,digg
 
 
 You are an enduring light in the bottom of my heart.You are the one. Good night my darling~
+
+---
+## Day_9
+
+
+> **Dear Baby~** This is my ninth blog.It is for my little pig girl~
+
+
+Why do the mouse love rice?May be just like I love you? 
+(Actruclly I know,because of the rice is cute and delicious. And the next~ you know~~~ heihei~ Good night my darling~
 
 ---
 
