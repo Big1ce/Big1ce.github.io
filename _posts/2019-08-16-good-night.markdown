@@ -114,7 +114,7 @@ You are an enduring light in the bottom of my heart.You are the one. Good night 
 
 
 Why do the mouse love rice?May be just like I love you? 
-(Actruclly I know,because of the rice is cute and delicious. And the next~ you know~~~ heihei~ Good night my darling~
+(Actruclly I know,because of the rice is cute and delicious. So~you know why do I love you? (~^_^~) Good night my darling~
 
 ---
 
