@@ -16,6 +16,7 @@ tags:
 ## The Day
 
 [Day_1](#Day_1)<br>  [Day_2](#Day_2)<br>  [Day_3](#Day_3)<br>  [Day_4](#Day_4)<br>  [Day_5](#Day_5)<br>  [Day_6](#Day_6)<br>  [Day_7](#Day_7)<br>  [Day_8](#Day_8)<br>  [Day_9](#Day_9)<br>
+  [Day_10](#Day_10)<br>
 
 ---
 <p id = "Day_1"></p>
@@ -117,6 +118,17 @@ Why do the mouse love rice?May be just like I love you?
 (Actruclly I know,because of the rice is cute and delicious. So~you know why do I love you? (~^_^~) Good night my darling~
 
 ---
+<p id = "Day_10"></p>
+## Day_10
+
+
+> **Dear Baby~** This is my tenth blog.It is for my pretty pig girl~
+
+
+Hard building the Beach villa makes my girl cute and beautiful~ (~^_^~) Good night my darling~
+
+---
+
 
 
 
