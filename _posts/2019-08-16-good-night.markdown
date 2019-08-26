@@ -26,6 +26,7 @@ tags:
 [Day_9](#Day_9)<br>
 [Day_10](#Day_10)<br>
 [Day_11](#Day_11)<br>
+[Day_12](#Day_12)<br>
 
 
 ---
@@ -145,9 +146,20 @@ Hard building the Beach villa makes my girl cute and beautiful~ (~^_^~) Good nig
 > **Dear Baby~** This is my eleventh blog.It is for my delicate pig ~
 
 
-Don't worry.Tomorrow will be better. Good night my darling(~^_^~)~
+Don't worry.Tomorrow will be better. Good night my darling~ (~^_^~)
 
 ---
+<p id = "Day_12"></p>
+## Day_12
+
+
+> **Dear Baby~** This is my twelfth blog.It is for my delicate pig girl~
+
+
+Everyone will be confused about their lives,just do it! You are the best in my heart,forever! Good night my darling~ (~^_^~)
+
+---
+
 
 
 
