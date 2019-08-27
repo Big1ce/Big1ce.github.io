@@ -27,6 +27,7 @@ tags:
 [Day_10](#Day_10)<br>
 [Day_11](#Day_11)<br>
 [Day_12](#Day_12)<br>
+[Day_13](#Day_13)<br>
 
 
 ---
@@ -157,6 +158,16 @@ Don't worry.Tomorrow will be better. Good night my darling~ (~^_^~)
 
 
 Everyone will be confused about their lives,just do it! You are the best in my heart,forever! Good night my darling~ (~^_^~)
+
+---
+<p id = "Day_13"></p>
+## Day_13
+
+
+> **Dear Baby~** This is my thirteenth blog.It is for my delicate pig girl~
+
+
+I love you the day I meet you. I love you today. And I will love you to rest of my life. Good night my darling~ (~^_^~)
 
 ---
 
