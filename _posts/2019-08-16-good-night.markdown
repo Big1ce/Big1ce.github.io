@@ -28,6 +28,7 @@ tags:
 [Day_11](#Day_11)<br>
 [Day_12](#Day_12)<br>
 [Day_13](#Day_13)<br>
+[Day_14](#Day_14)<br>
 
 
 ---
@@ -168,6 +169,16 @@ Everyone will be confused about their lives,just do it! You are the best in my h
 
 
 I love you the day I meet you. I love you today. And I will love you to rest of my life. Good night my darling~ (~^_^~)
+
+---
+<p id = "Day_14"></p>
+## Day_14
+
+
+> **Dear Baby~** This is my fourteenth blog.It is for my Petite amie~
+
+
+L'amour est comme le ciel bleu et les nuages ​ ​ blancs, le ciel est clair, tu me manques comme une tempête arrive soudainement. Good night my darling~ (~^_^~)
 
 ---
 
