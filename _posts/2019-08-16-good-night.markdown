@@ -41,7 +41,7 @@ tags:
 > **Dear Baby~** This is my first blog. It is for you. 
 
 
-I want you know that every night before going to bed to listen to you say good night, belongs to me, the most simple and lasting happiness. Good night my darling~
+I want you know that every night before going to bed to listen to you say good night, belongs to me, the most simple and lasting happiness.<br> Good night my darling~
 
 ---
 <p id = "Day_2"></p>
@@ -52,7 +52,7 @@ I want you know that every night before going to bed to listen to you say good n
 > **Dear Baby~** This is my second blog. It is also for you.
 
 
-You are the star which lighting up my firmament and my dream. Good night my darling~
+You are the star which lighting up my firmament and my dream. <br>Good night my darling~
 
 ---
 <p id = "Day_3"></p>
@@ -63,7 +63,7 @@ You are the star which lighting up my firmament and my dream. Good night my darl
 > **Dear Baby~** This is my third blog. It is always for you and only you.
 
 
-One day, we will never have to say good night, only kiss. Good night my darling~
+One day, we will never have to say good night, only kiss. <br>Good night my darling~
 
 ---
 <p id = "Day_4"></p>
@@ -71,10 +71,10 @@ One day, we will never have to say good night, only kiss. Good night my darling~
 ## Day_4
 
 
-> **Dear Baby~** This is not the blog. I can not fix my blog today,i am so sorry.
+> **Dear Baby~** This is not the blog. I can not fix my blog today, i am so sorry.
 
 
-And now,I am reciving the love from you, we have telesthesia, forever. Good night my darling~
+And now,I am reciving the love from you, we have telesthesia, forever. <br>Good night my darling~
 
 ---
 <p id = "Day_5"></p>
@@ -85,7 +85,7 @@ And now,I am reciving the love from you, we have telesthesia, forever. Good nigh
 > **Dear Baby~** This is my fifth blog! It is for you.
 
 
-I felt very sad when I heard that you were depressed. If I could, I would wrap my arms around you and just hold you until the depressed went away.I miss you. Good night my darling~
+I felt very sad when I heard that you were depressed. If I could, I would wrap my arms around you and just hold you until the depressed went away.I miss you. <br>Good night my darling~
 
 ---
 <p id = "Day_6"></p>
@@ -97,7 +97,7 @@ I felt very sad when I heard that you were depressed. If I could, I would wrap m
 
 
 Today is an ordinary day, just like many other days which I missing you. <br>
-But,I have changed it! Because of tonight, I love you three thousand. Good night my darling~
+But,I have changed it! Because of tonight, I love you three thousand. <br>Good night my darling~
 
 ---
 <p id = "Day_7"></p>
@@ -108,7 +108,7 @@ But,I have changed it! Because of tonight, I love you three thousand. Good night
 > **Dear Baby~** This is my seventh blog. It is for you.
 
 
-Unconsciously, We have built a big home in our's craft.We building, ploughing,digging and adventuring. We have too many memories there. We had thinked that 'this dream is over' many times. But, is it really over? I don't know. Good night my darling~
+Unconsciously, We have built a big home in our's craft.We building, ploughing,digging and adventuring. We have too many memories there. We had thinked that 'this dream is over' many times. <br>But, is it really over? I don't know. Good night my darling~
 
 ---
 <p id = "Day_8"></p>
@@ -116,10 +116,10 @@ Unconsciously, We have built a big home in our's craft.We building, ploughing,di
 ## Day_8
 
 
-> **Dear Baby~** This is my eighth blog.It is for you.
+> **Dear Baby~** This is my eighth blog. It is for you.
 
 
-You are an enduring light in the bottom of my heart.You are the one. Good night my darling~
+You are an enduring light in the bottom of my heart.You are the one. <br>Good night my darling~
 
 ---
 <p id = "Day_9"></p>
@@ -130,7 +130,7 @@ You are an enduring light in the bottom of my heart.You are the one. Good night 
 
 
 Why do the mouse love rice?May be just like I love you? 
-(Actruclly I know,because of the rice is cute and delicious. So~you know why do I love you? (~^_^~) Good night my darling~
+(Actruclly I know,because of the rice is cute and delicious. So~you know why do I love you? (~^_^~) <br>Good night my darling~
 
 ---
 <p id = "Day_10"></p>
@@ -140,7 +140,7 @@ Why do the mouse love rice?May be just like I love you?
 > **Dear Baby~** This is my tenth blog. It is for my pretty pig girl~
 
 
-Hard building the Beach villa makes my girl cute and beautiful~ (~^_^~) Good night my darling~
+Hard building the Beach villa makes my girl cute and beautiful~ (~^_^~) <br>Good night my darling~
 
 ---
 <p id = "Day_11"></p>
@@ -150,7 +150,7 @@ Hard building the Beach villa makes my girl cute and beautiful~ (~^_^~) Good nig
 > **Dear Baby~** This is my eleventh blog. It is for my delicate pig ~
 
 
-Don't worry.Tomorrow will be better. Good night my darling~ (~^_^~)
+Don't worry.Tomorrow will be better. <br>Good night my darling~ (~^_^~)
 
 ---
 <p id = "Day_12"></p>
@@ -160,7 +160,7 @@ Don't worry.Tomorrow will be better. Good night my darling~ (~^_^~)
 > **Dear Baby~** This is my twelfth blog. It is for my delicate pig girl~
 
 
-Everyone will be confused about their lives,just do it! You are the best in my heart,forever! Good night my darling~ (~^_^~)
+Everyone will be confused about their lives, just do it! You are the best in my heart, forever! <br>Good night my darling~ (~^_^~)
 
 ---
 <p id = "Day_13"></p>
@@ -170,7 +170,7 @@ Everyone will be confused about their lives,just do it! You are the best in my h
 > **Dear Baby~** This is my thirteenth blog. It is for my delicate pig girl~
 
 
-I love you the day I meet you. I love you today. And I will love you to rest of my life. Good night my darling~ (~^_^~)
+I love you the day I meet you. I love you today. And I will love you to rest of my life. <br>Good night my darling~ (~^_^~)
 
 ---
 <p id = "Day_14"></p>
@@ -180,7 +180,7 @@ I love you the day I meet you. I love you today. And I will love you to rest of 
 > **Dear Baby~** This is my fourteenth blog. It is for my Petite amie~
 
 
-L'amour est comme le ciel bleu et les nuages blancs, le ciel est clair, tu me manques comme une tempête arrive soudainement. Good night my darling~ (~^_^~)
+L'amour est comme le ciel bleu et les nuages blancs, le ciel est clair, tu me manques comme une tempête arrive soudainement. <br>Good night my darling~ (~^_^~)
 
 ---
 <p id = "Day_15"></p>
@@ -190,8 +190,8 @@ L'amour est comme le ciel bleu et les nuages blancs, le ciel est clair, tu me ma
 > **Dear Baby~** This is my fifteenth blog. It is for my little pig~
 
 
-Today, I was studying a software which named"mininet". It is used to create topology of network. The tutorials show a simple network that has two hosts which been connected by an invisible link.<br>
-Just like you and me. I miss you,too. Good night my darling~ (~^_^~)
+Today, I was studying a software which named"mininet". It is used to create topology of network. The tutorials show a simple network that has two hosts which been connected by an invisible link.Just like you and me. <br>
+I miss you,too. Good night my darling~ (~^_^~)
 
 ---
 
