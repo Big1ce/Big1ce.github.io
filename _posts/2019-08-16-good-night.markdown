@@ -38,7 +38,7 @@ tags:
 ## Day_1
 
 
-> **Dear Baby~** This is my first blog.It is for you. 
+> **Dear Baby~** This is my first blog. It is for you. 
 
 
 I want you know that every night before going to bed to listen to you say good night, belongs to me, the most simple and lasting happiness. Good night my darling~
@@ -49,7 +49,7 @@ I want you know that every night before going to bed to listen to you say good n
 ## Day_2
 
 
-> **Dear Baby~** This is my second blog.It is also for you.
+> **Dear Baby~** This is my second blog. It is also for you.
 
 
 You are the star which lighting up my firmament and my dream. Good night my darling~
@@ -60,7 +60,7 @@ You are the star which lighting up my firmament and my dream. Good night my darl
 ## Day_3
 
 
-> **Dear Baby~** This is my third blog.It is always for you and only you.
+> **Dear Baby~** This is my third blog. It is always for you and only you.
 
 
 One day, we will never have to say good night, only kiss. Good night my darling~
@@ -71,10 +71,10 @@ One day, we will never have to say good night, only kiss. Good night my darling~
 ## Day_4
 
 
-> **Dear Baby~** This is not the blog.I can not fix my blog today,i am so sorry.
+> **Dear Baby~** This is not the blog. I can not fix my blog today,i am so sorry.
 
 
-And now,I am reciving the love from you,we have telesthesia,forever. Good night my darling~
+And now,I am reciving the love from you, we have telesthesia, forever. Good night my darling~
 
 ---
 <p id = "Day_5"></p>
@@ -82,10 +82,10 @@ And now,I am reciving the love from you,we have telesthesia,forever. Good night 
 ## Day_5
 
 
-> **Dear Baby~** This is my fifth blog!It is for you.
+> **Dear Baby~** This is my fifth blog! It is for you.
 
 
-I felt very sad when I heard that you were depressed.If I could, I would wrap my arms around you and just hold you until the depressed went away.I miss you. Good night my darling~
+I felt very sad when I heard that you were depressed. If I could, I would wrap my arms around you and just hold you until the depressed went away.I miss you. Good night my darling~
 
 ---
 <p id = "Day_6"></p>
@@ -93,10 +93,11 @@ I felt very sad when I heard that you were depressed.If I could, I would wrap my
 ## Day_6
 
 
-> **Dear Baby~** This is my sixth blog.It is for you.
+> **Dear Baby~** This is my sixth blog. It is for you.
 
 
-Today is an ordinary day,just like many other days which I missing you.But,I have changed it!Because of tonight,I love you three thousand.Good night my darling~
+Today is an ordinary day, just like many other days which I missing you. <br>
+But,I have changed it! Because of tonight, I love you three thousand. Good night my darling~
 
 ---
 <p id = "Day_7"></p>
@@ -104,10 +105,10 @@ Today is an ordinary day,just like many other days which I missing you.But,I hav
 ## Day_7
 
 
-> **Dear Baby~** This is my seventh blog.It is for you.
+> **Dear Baby~** This is my seventh blog. It is for you.
 
 
-Unconsciously,We have built a big home in our's craft.We building,ploughing,digging and adventuring.We have too many memories there.We had thinked that 'this dream is over' many times.But,is it really over? I don't know. Good night my darling~
+Unconsciously, We have built a big home in our's craft.We building, ploughing,digging and adventuring. We have too many memories there. We had thinked that 'this dream is over' many times. But, is it really over? I don't know. Good night my darling~
 
 ---
 <p id = "Day_8"></p>
@@ -125,7 +126,7 @@ You are an enduring light in the bottom of my heart.You are the one. Good night 
 ## Day_9
 
 
-> **Dear Baby~** This is my ninth blog.It is for my little pig girl~
+> **Dear Baby~** This is my ninth blog. It is for my little pig girl~
 
 
 Why do the mouse love rice?May be just like I love you? 
@@ -136,7 +137,7 @@ Why do the mouse love rice?May be just like I love you?
 ## Day_10
 
 
-> **Dear Baby~** This is my tenth blog.It is for my pretty pig girl~
+> **Dear Baby~** This is my tenth blog. It is for my pretty pig girl~
 
 
 Hard building the Beach villa makes my girl cute and beautiful~ (~^_^~) Good night my darling~
@@ -146,7 +147,7 @@ Hard building the Beach villa makes my girl cute and beautiful~ (~^_^~) Good nig
 ## Day_11
 
 
-> **Dear Baby~** This is my eleventh blog.It is for my delicate pig ~
+> **Dear Baby~** This is my eleventh blog. It is for my delicate pig ~
 
 
 Don't worry.Tomorrow will be better. Good night my darling~ (~^_^~)
@@ -156,7 +157,7 @@ Don't worry.Tomorrow will be better. Good night my darling~ (~^_^~)
 ## Day_12
 
 
-> **Dear Baby~** This is my twelfth blog.It is for my delicate pig girl~
+> **Dear Baby~** This is my twelfth blog. It is for my delicate pig girl~
 
 
 Everyone will be confused about their lives,just do it! You are the best in my heart,forever! Good night my darling~ (~^_^~)
@@ -166,7 +167,7 @@ Everyone will be confused about their lives,just do it! You are the best in my h
 ## Day_13
 
 
-> **Dear Baby~** This is my thirteenth blog.It is for my delicate pig girl~
+> **Dear Baby~** This is my thirteenth blog. It is for my delicate pig girl~
 
 
 I love you the day I meet you. I love you today. And I will love you to rest of my life. Good night my darling~ (~^_^~)
@@ -176,7 +177,7 @@ I love you the day I meet you. I love you today. And I will love you to rest of 
 ## Day_14
 
 
-> **Dear Baby~** This is my fourteenth blog.It is for my Petite amie~
+> **Dear Baby~** This is my fourteenth blog. It is for my Petite amie~
 
 
 L'amour est comme le ciel bleu et les nuages blancs, le ciel est clair, tu me manques comme une tempête arrive soudainement. Good night my darling~ (~^_^~)
@@ -186,10 +187,10 @@ L'amour est comme le ciel bleu et les nuages blancs, le ciel est clair, tu me ma
 ## Day_15
 
 
-> **Dear Baby~** This is my fifteenth blog.It is for my little pig~
+> **Dear Baby~** This is my fifteenth blog. It is for my little pig~
 
 
-Today,I was studying a software which named"mininet".It is used to create topology of network.The tutorials show a simple network that has two hosts which been connected by an invisible link.
+Today, I was studying a software which named"mininet". It is used to create topology of network. The tutorials show a simple network that has two hosts which been connected by an invisible link.<br>
 Just like you and me. I miss you,too. Good night my darling~ (~^_^~)
 
 ---
