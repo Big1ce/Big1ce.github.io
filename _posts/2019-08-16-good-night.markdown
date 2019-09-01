@@ -32,6 +32,7 @@ tags:
 [Day_15](#Day_15)<br>
 [Day_16](#Day_16)<br>
 [Day_17](#Day_17)<br>
+[Day_18](#Day_18)<br>
 
 
 ---
@@ -215,6 +216,17 @@ To the world you may be just one person. To me you may be the world.
 
 
 I want to see dudu,you don't allow to show it to me.you bad bad,over
+<br>Good night my bad baby~ (~^_^~)
+
+---
+<p id = "Day_18"></p>
+## Day_18
+
+
+> **Dear Baby~** This is my eighteenth blog. It is for my cute pig girl~
+
+
+When the words "I love you" were said by you for the first time, my world blossoms.
 <br>Good night my bad baby~ (~^_^~)
 
 ---
