@@ -215,7 +215,7 @@ To the world you may be just one person. To me you may be the world.
 > **Dear Baby~** This is my seventeenth blog. It is for my little pig~
 
 
-I want to see dudu,you don't allow to show it to me.you bad bad,over
+I want to see dudu, you don't allow to show it to me. You bad bad, over.
 <br>Good night my bad baby~ (~^_^~)
 
 ---
@@ -227,7 +227,7 @@ I want to see dudu,you don't allow to show it to me.you bad bad,over
 
 
 When the words "I love you" were said by you for the first time, my world blossoms.
-<br>Good night my bad baby~ (~^_^~)
+<br>Good night my darling~ (~^_^~)
 
 ---
 
