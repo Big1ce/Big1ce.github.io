@@ -239,7 +239,7 @@ When the words "I love you" were said by you for the first time, my world blosso
 
 
 I apologize for that I didn't upload last night.<br>
-Today,the god close one window for me, and then he close all doors, I'm boring , I'm losting and almost crazy. I need you to open them for me.
+Today,the god close one window for me, and then he closes all doors, I'm boring , I'm losting and almost crazy. I need you to open them for me.
 <br>Good night my girl~
 
 ---
