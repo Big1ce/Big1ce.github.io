@@ -33,6 +33,7 @@ tags:
 [Day_16](#Day_16)<br>
 [Day_17](#Day_17)<br>
 [Day_18](#Day_18)<br>
+[Day_19](#Day_19)<br>
 
 
 ---
@@ -228,6 +229,18 @@ I want to see dudu, you don't allow to show it to me. You bad bad, over.
 
 When the words "I love you" were said by you for the first time, my world blossoms.
 <br>Good night my darling~ (~^_^~)
+
+---
+<p id = "Day_19"></p>
+## Day_19
+
+
+> **Dear Baby~** This is my nineteenth blog. It is for my girl~
+
+
+I apologize for that I didn't upload last night.<br>
+Today,the god close one window for me, and then he close all doors, I'm boring , I'm losting and almost crazy. I need you to open them for me.
+<br>Good night my girl~
 
 ---
 
