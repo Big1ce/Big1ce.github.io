@@ -34,6 +34,7 @@ tags:
 [Day_17](#Day_17)<br>
 [Day_18](#Day_18)<br>
 [Day_19](#Day_19)<br>
+[Day_20](#Day_20)<br>
 
 
 ---
@@ -241,6 +242,18 @@ When the words "I love you" were said by you for the first time, my world blosso
 I apologize for that I didn't upload last night.<br>
 Today,the god close one window for me, and then he closes all doors, I'm boring , I'm losting and almost crazy. I need you to open them for me.
 <br>Good night my girl~
+
+---
+<p id = "Day_20"></p>
+## Day_20
+
+
+> **Dear Baby~** This is my twentieth blog. It is for my love~
+
+The pain on your body is the one in my heart.<br>
+The ache on your body is the one in my mind.<br>
+Your body sore is just my heart sore.<br>
+<br>Good night my darling~ (~^_^~)
 
 ---
 
