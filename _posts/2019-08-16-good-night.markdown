@@ -261,7 +261,7 @@ Your body sore is just my heart sore.<br>
 ## Day_21
 
 
-> **Dear Baby~** This is my 21th blog. It is for my love~
+> **Dear Baby~** This is my 21st blog. It is for my love~
 
 Falling in love with you was the easiest thing I have ever done. Nothing matters to me but you. And every day I am alive, I'm aware of this.
 <br>Good night my darling~ (~^_^~)
