@@ -253,7 +253,7 @@ Today,the god close one window for me, and then he closes all doors, I'm boring 
 
 The pain on your body is the one in my heart.<br>
 The ache on your body is the one in my mind.<br>
-Your body sore is just my heart sore.<br>
+Your body sore is just my heart sore.
 <br>Good night my darling~ (~^_^~)
 
 ---
