@@ -35,6 +35,7 @@ tags:
 [Day_18](#Day_18)<br>
 [Day_19](#Day_19)<br>
 [Day_20](#Day_20)<br>
+[Day_21](#Day_21)<br>
 
 
 ---
@@ -256,6 +257,18 @@ Your body sore is just my heart sore.<br>
 <br>Good night my darling~ (~^_^~)
 
 ---
+<p id = "Day_21"></p>
+## Day_21
+
+
+> **Dear Baby~** This is my 21th blog. It is for my love~
+
+Falling in love with you was the easiest thing I have ever done. Nothing matters to me but you. And every day I am alive, I'm aware of this.
+<br>Good night my darling~ (~^_^~)
+
+---
+
+
 
 
 
