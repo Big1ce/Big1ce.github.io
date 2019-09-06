@@ -36,6 +36,7 @@ tags:
 [Day_19](#Day_19)<br>
 [Day_20](#Day_20)<br>
 [Day_21](#Day_21)<br>
+[Day_22](#Day_22)<br>
 
 
 ---
@@ -265,6 +266,16 @@ Your body sore is just my heart sore.
 
 Falling in love with you was the easiest thing I have ever done. Nothing matters to me but you. And every day I am alive, I'm aware of this.
 <br>Good night my darling~ (~^_^~)
+
+---
+<p id = "Day_22"></p>
+## Day_22
+
+
+> **Dear Boss~** This is my 22nd blog. Yeah...It is for my boss~
+
+I love three things in the world. Sun,Moon and You. Sun for morning, Moon for night, and You forever. emm...May I ask about my salary?
+<br>Good night my boss! (~^_^~)
 
 ---
 
