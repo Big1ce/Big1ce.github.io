@@ -274,8 +274,8 @@ Falling in love with you was the easiest thing I have ever done. Nothing matters
 
 > **Dear Boss~** This is my 22nd blog. Yeah...It is for my boss~
 
-I love three things in the world. Sun,Moon and You. Sun for morning, Moon for night, and You forever. emm...May I ask about my salary?
-<br>Good night my boss! (~^_^~)
+I love three things in the world. Sun,Moon and You. Sun for morning, Moon for night, and You forever. emm...May I ask you something about my salary?
+<br>Good night my boss! ($^$)
 
 ---
 
