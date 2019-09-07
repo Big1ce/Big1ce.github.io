@@ -37,6 +37,7 @@ tags:
 [Day_20](#Day_20)<br>
 [Day_21](#Day_21)<br>
 [Day_22](#Day_22)<br>
+[Day_23](#Day_23)<br>
 
 
 ---
@@ -276,6 +277,16 @@ Falling in love with you was the easiest thing I have ever done. Nothing matters
 
 I love three things in the world. Sun,Moon and You. Sun for morning, Moon for night, and You forever. emm...May I ask you something about my salary?
 <br>Good night my boss! ($^$)
+
+---
+<p id = "Day_23"></p>
+## Day_23
+
+
+> **Dear Baby~** This is my 23rd blog. It is for my love~
+
+Today, the autumn breeze has blew in the school. If the refreshing breeze knows my heart, it can tell you that I miss you.
+<br>Good night my darling~ (~^_^~)
 
 ---
 
