@@ -38,6 +38,7 @@ tags:
 [Day_21](#Day_21)<br>
 [Day_22](#Day_22)<br>
 [Day_23](#Day_23)<br>
+[Day_24](#Day_24)<br>
 
 
 ---
@@ -289,8 +290,16 @@ Today, the autumn breeze has blew in the school. If the refreshing breeze knows 
 <br>Good night my darling~ (~^_^~)
 
 ---
+<p id = "Day_24"></p>
+## Day_24
 
 
+> **Dear Baby~** This is my 24th blog. It is for my love~
+
+Your voice is full of beautiful memories we have yet to make.
+<br>Good night my darling~ (~^_^~)
+
+---
 
 
 
