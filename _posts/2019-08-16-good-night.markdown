@@ -39,6 +39,7 @@ tags:
 [Day_22](#Day_22)<br>
 [Day_23](#Day_23)<br>
 [Day_24](#Day_24)<br>
+[Day_25](#Day_25)<br>
 
 
 ---
@@ -300,9 +301,19 @@ Your voice is full of beautiful memories we have yet to make.
 <br>Good night my darling~ (~^_^~)
 
 ---
+<p id = "Day_25"></p>
+## Day_25
 
 
+> **Dear Baby~** This is my 25th blog. It is for my love~
 
+The stars seem to look so pretty in the night sky, but they are nothing in comparison to your pretty eyes.
+<br>Good night my darling~ (~^_^~)
+
+---
+
+
+ 
 
 
 
