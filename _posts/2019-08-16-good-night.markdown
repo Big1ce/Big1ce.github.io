@@ -40,6 +40,7 @@ tags:
 [Day_23](#Day_23)<br>
 [Day_24](#Day_24)<br>
 [Day_25](#Day_25)<br>
+[Day_26](#Day_26)<br>
 
 
 ---
@@ -311,9 +312,20 @@ The stars seem to look so pretty in the night sky, but they are nothing in compa
 <br>Good night my darling~ (~^_^~)
 
 ---
+<p id = "Day_26"></p>
+## Day_26
+
+
+> **Dear Baby~** This is my 26th blog. It is for my love~
+
+The most romantic thing in the world is to be getting older with you slowly.
+<br>Good night my darling~ (~^_^~)
+
+---
 
 
  
+
 
 
 
