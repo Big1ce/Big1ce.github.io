@@ -41,6 +41,9 @@ tags:
 [Day_24](#Day_24)<br>
 [Day_25](#Day_25)<br>
 [Day_26](#Day_26)<br>
+[Day_27](#Day_27)<br>
+
+
 
 
 ---
@@ -322,7 +325,16 @@ The most romantic thing in the world is to be getting older with you slowly.
 <br>Good night my darling~ (~^_^~)
 
 ---
+<p id = "Day_27"></p>
+## Day_27
 
+
+> **Dear Baby~** This is my 27th blog. It is for my love~
+
+I will go to meet a very beautiful fairy at next weekends, do you have any wish which wanted to be realized that I can retell to her? Maybe she can realize your wishes.(~^_^~)
+<br>Good night my darling~ 
+
+---
 
  
 
