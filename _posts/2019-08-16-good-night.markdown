@@ -43,6 +43,7 @@ tags:
 [Day_26](#Day_26)<br>
 [Day_27](#Day_27)<br>
 [Day_28](#Day_28)<br>
+[Day_29](#Day_29)<br>
 
 
 
@@ -343,6 +344,17 @@ I will go to meet a very beautiful fairy at next weekends, do you have any wish 
 > **Dear Baby~** This is my 28th blog. It is for my love~
 
 Every day, a greeting, a love you, a good night, this is all my greed.
+<br>Good night my darling~ (~^_^~)
+
+---
+<p id = "Day_29"></p>
+## Day_29
+
+
+> **Dear Baby~** This is my 29th blog. It is for my love~
+
+Oh..I accidentally fall into sleep with cross talk last night.Darling,I am so sorry about that.
+<br>Quiet night,bright full moon,soft moonlight bring my deep thoughts.
 <br>Good night my darling~ (~^_^~)
 
 ---
