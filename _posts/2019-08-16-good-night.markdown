@@ -366,7 +366,7 @@ Oh..I accidentally fall into sleep with cross talk last night. Darling, I am so 
 > **Dear Baby~** This is my 30th blog. It is for my love~
 
 I secretly touched you, but you spread out like a dandelion, and from that moment you are everywhere, everywhere is you.
-<br>Yeah~~~It has been a month~~~~
+<br>Yeah~~~ It has been a month ~~~~
 <br>Good night my darling~ (~^_^~)
 
 ---
