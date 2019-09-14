@@ -44,6 +44,7 @@ tags:
 [Day_27](#Day_27)<br>
 [Day_28](#Day_28)<br>
 [Day_29](#Day_29)<br>
+[Day_30](#Day_30)<br>
 
 
 
@@ -353,13 +354,25 @@ Every day, a greeting, a love you, a good night, this is all my greed.
 
 > **Dear Baby~** This is my 29th blog. It is for my love~
 
-Oh..I accidentally fall into sleep with cross talk last night.Darling,I am so sorry about that.
-<br>Quiet night,bright full moon,soft moonlight bring my deep thoughts.
+Oh..I accidentally fall into sleep with cross talk last night. Darling, I am so sorry about that.
+<br>Quiet night, bright full moon, soft moonlight bring my deep thoughts.
+<br>Good night my darling~ (~^_^~)
+
+---
+<p id = "Day_30"></p>
+## Day_30
+
+
+> **Dear Baby~** This is my 30th blog. It is for my love~
+
+I secretly touched you, but you spread out like a dandelion, and from that moment you are everywhere, everywhere is you.
+<br>Yeah~~~It has been a month~~~~
 <br>Good night my darling~ (~^_^~)
 
 ---
 
  
+
 
 
 
