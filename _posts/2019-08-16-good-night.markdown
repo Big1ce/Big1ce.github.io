@@ -21,35 +21,30 @@ tags:
 [Day_3](#Day_3)<br>
 [Day_4](#Day_4)<br>
 [Day_5](#Day_5)<br> -->
-
 [Day_6](#Day_6)<br>
 <!--
 [Day_7](#Day_7)<br>
 [Day_8](#Day_8)<br>
 [Day_9](#Day_9)<br>
 [Day_10](#Day_10)<br> -->
-
 [Day_11](#Day_11)<br>
 <!--
 [Day_12](#Day_12)<br>
 [Day_13](#Day_13)<br>
 [Day_14](#Day_14)<br>
 [Day_15](#Day_15)<br> -->
-
 [Day_16](#Day_16)<br>
 <!--
 [Day_17](#Day_17)<br>
 [Day_18](#Day_18)<br>
 [Day_19](#Day_19)<br>
 [Day_20](#Day_20)<br>-->
-
 [Day_21](#Day_21)<br>
 <!--
 [Day_22](#Day_22)<br>
 [Day_23](#Day_23)<br>
 [Day_24](#Day_24)<br>
 [Day_25](#Day_25)<br>-->
-
 [Day_26](#Day_26)<br>
 <!--
 [Day_27](#Day_27)<br>
