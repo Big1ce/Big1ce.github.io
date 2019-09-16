@@ -52,6 +52,7 @@ tags:
 [Day_29](#Day_29)<br>
 [Day_30](#Day_30)<br>-->
 [Day_31](#Day_31)<br>
+[Day_32](#Day_32)<br>
 
 
 
@@ -380,10 +381,20 @@ I secretly touched you, but you spread out like a dandelion, and from that momen
 ## Day_31
 
 
-> **Dear Baby~** This is my 31th blog. It is for my love~
+> **Dear Baby~** This is my 31st blog. It is for my love~
 
 All I want is someone who will stay, no matter how hard it is to be with you.
 <br>Good night my darling~ (~^_^~)
+
+---
+<p id = "Day_32"></p>
+## Day_32
+
+
+> **Dear Baby~** This is my 32nd blog. It is for my love~
+
+Ferme les paupières et dans l'obscurité de la nuit que ma voix soit un chemin qui te conduit à un doux rêve.
+<br>Bonne nuit my darling~ (~^_^~)
 
 ---
 
