@@ -403,7 +403,7 @@ Ferme les paupières et dans l'obscurité de la nuit que ma voix soit un chemin 
 > **Dear Baby~** This is my 33rd blog. It is for my love~
 
 Love September, weeping willow shade, you suddenly look back, a Wang autumn water, melt me, only wish to live with you at this moment of the blue waves ripple.
-<br>Bonne nuit my darling~ (~^_^~)
+<br>Good night my darling~ (~^_^~)
 
 ---
 
