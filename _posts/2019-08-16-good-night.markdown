@@ -54,6 +54,10 @@ tags:
 [Day_31](#Day_31)<br>
 [Day_32](#Day_32)<br>
 [Day_32](#Day_32)<br>
+[Day_33](#Day_33)<br>
+[Day_34](#Day_34)<br>
+
+<!-- [Day_36](#Day_36)<br> -->
 
 ---
 <p id = "Day_1"></p>
@@ -406,8 +410,32 @@ Love September, weeping willow shade, you suddenly look back, a Wang autumn wate
 <br>Good night my darling~ (~^_^~)
 
 ---
+<p id = "Day_34"></p>
+## Day_34
 
 
+> **Dear Baby~** This is my 34th blog. It is for my love~
+
+I love that feeling of being secure when you wrap your arms around me. And I can feel that three days later~
+<br>Nothing can defeat us! 
+<br>Good night my darling~ (~^_^~)
+
+---
+
+
+<!--
+<p id = "Day_36"></p>
+## Day_36
+
+
+> **Dear Baby~** This is my 36th blog. It is for my love~
+
+This is the last night you will sleep alone. Tomorrow I will be there with you. Good night and sweet dreams.
+<br>Good night my darling~ (~^_^~)
+
+---
+
+-->
 
 
 
