@@ -416,7 +416,7 @@ Love September, weeping willow shade, you suddenly look back, a Wang autumn wate
 
 > **Dear Baby~** This is my 34th blog. It is for my love~
 
-I love that feeling of being secure when you wrap your arms around me. And I can feel that three days later~
+I love that feeling of being soft when you wrap your arms around me. And I can feel that three days later~
 <br>Nothing can defeat us! 
 <br>Good night my darling~ (~^_^~)
 
