@@ -56,7 +56,7 @@ tags:
 [Day_32](#Day_32)<br>
 [Day_33](#Day_33)<br>
 [Day_34](#Day_34)<br>
-
+[Day_35](#Day_35)<br>
 <!-- [Day_36](#Day_36)<br> -->
 
 ---
@@ -421,8 +421,17 @@ I love that feeling of being soft when you wrap your arms around me. And I can f
 <br>Good night my darling~ (~^_^~)
 
 ---
+<p id = "Day_35"></p>
+## Day_35
 
 
+> **Dear Baby~** This is my 35th blog. It is for my love~
+
+I really really really really really really like you. And I want you, do you want me, do you want me, too?
+<br>It's like everything you say is a sweet revelation.
+<br>Good night my darling~ (~^_^~)
+■■■■■■■
+---
 <!--
 <p id = "Day_36"></p>
 ## Day_36
@@ -436,6 +445,8 @@ This is the last night you will sleep alone. Tomorrow I will be there with you. 
 ---
 
 -->
+
+
 
 
 
