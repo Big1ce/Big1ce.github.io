@@ -430,8 +430,20 @@ I love that feeling of being soft when you wrap your arms around me. And I can f
 I really really really really really really like you. And I want you, do you want me, do you want me, too?
 <br>It's like everything you say is a sweet revelation.
 <br>Good night my darling~ (~^_^~)
-■■■■■■■
+
 ---
+<p id = "Day_36"></p>
+## Day_36
+
+> (想知道明天的晚安请刮开涂层)
+> ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+<br>■■■■■■■■■■■■■■■■■■■■■
+
+---
+
+
 <!--
 <p id = "Day_36"></p>
 ## Day_36
