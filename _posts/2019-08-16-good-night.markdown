@@ -427,8 +427,7 @@ I love that feeling of being soft when you wrap your arms around me. And I can f
 
 > **Dear Baby~** This is my 35th blog. It is for my love~
 
-I really really really really really really like you. And I want you, do you want me, do you want me, too?
-<br>It's like everything you say is a sweet revelation.
+It's like everything you say is a sweet revelation. I really really really really really really like you. And I want you, do you want me, do you want me, too?
 <br>Good night my darling~ (~^_^~)
 
 ---
@@ -442,7 +441,6 @@ I really really really really really really like you. And I want you, do you wan
 <br>■■■■■■■■■■■■■■■■■■■■■
 
 ---
-
 
 <!--
 <p id = "Day_36"></p>
