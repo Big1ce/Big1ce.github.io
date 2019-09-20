@@ -52,12 +52,13 @@ tags:
 [Day_29](#Day_29)<br>
 [Day_30](#Day_30)<br>-->
 [Day_31](#Day_31)<br>
+<!-- 
 [Day_32](#Day_32)<br>
 [Day_32](#Day_32)<br>
 [Day_33](#Day_33)<br>
 [Day_34](#Day_34)<br>
-[Day_35](#Day_35)<br>
-<!-- [Day_36](#Day_36)<br> -->
+[Day_35](#Day_35)<br>-->
+[Day_36](#Day_36)<br>
 
 ---
 <p id = "Day_1"></p>
@@ -434,27 +435,14 @@ It's like everything you say is a sweet revelation. I really really really reall
 <p id = "Day_36"></p>
 ## Day_36
 
-> (想知道明天的晚安请刮开涂层)
-> ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
-
-■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
-<br>■■■■■■■■■■■■■■■■■■■■■
-
----
-
-<!--
-<p id = "Day_36"></p>
-## Day_36
-
 
 > **Dear Baby~** This is my 36th blog. It is for my love~
 
-This is the last night you will sleep alone. Tomorrow I will be there with you. Good night and sweet dreams.
-<br>Good night my darling~ (~^_^~)
+This is the last night you will sleep alone. Tomorrow I will be there with you. 
+<br>Good night and sweet dreams~ (~^_^~)
 
 ---
 
--->
 
 
 
