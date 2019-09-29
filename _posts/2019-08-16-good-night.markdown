@@ -429,8 +429,8 @@ I love that feeling of being soft when you wrap your arms around me. And I can f
 
 > **Dear Baby~** This is my 35th blog. It is for my love~
 
-It's like everything you say is a sweet revelation. I really really really really really really like you. And I want you, do you want me, do you want me, too?
-<br>Good night my darling~ (~^_^~)
+"It's like everything you say is a sweet revelation. I really really really really really really like you. And I want you, do you want me, do you want me, too?"                                     ----摘自《I Really Like You》
+<br>亲爱的,晚安~ <!--Good night my darling~ --> (~^_^~)
 
 ---
 <p id = "Day_36"></p>
@@ -439,15 +439,17 @@ It's like everything you say is a sweet revelation. I really really really reall
 
 > **Dear Baby~** This is my 36th blog. It is for my love~
 
-This is the last night you will sleep alone. Tomorrow I will be there with you. 
-<br>Good night and sweet dreams~ (~^_^~)
+这将是你最后一个独自入睡的夜晚。明天我会拥你入眠。
+<!--This is the last night you will sleep alone. Tomorrow I will be there with you.--> 
+<br>晚安,好梦~ <!--Good night and sweet dreams~ -->(~^_^~)
 
 ---
 <p id = "Blog_37"></p>
 ## blog_37
 
 
-> 前路漫漫,唯愿执子之手,与子偕老. <br>晚安
+> 前路漫漫,唯愿执子之手,与子偕老. 
+<br>晚安
 
 ---
 
