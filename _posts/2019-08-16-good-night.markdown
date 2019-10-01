@@ -457,7 +457,7 @@ I love that feeling of being soft when you wrap your arms around me. And I can f
 ## Blog_38
 
 
-> 你说那些烟花都长得一样,毫无兴致.
+> 你说那些烟花都千篇一律,让人毫无去看的兴致.
 <br>我心里的烟花独一无二,只为你一人绽放,你想要去看看吗?
 <br>晚安
 
