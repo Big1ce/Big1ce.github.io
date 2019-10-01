@@ -59,7 +59,8 @@ tags:
 [Day_34](#Day_34)<br>
 [Day_35](#Day_35)<br>-->
 [Day_36](#Day_36)<br>
-[Day_37](#Day_37)<br>
+[Blog_37](#Blog_37)<br>
+[Blog_38](#Blog_38)<br>
 
 ---
 <p id = "Day_1"></p>
@@ -445,10 +446,19 @@ I love that feeling of being soft when you wrap your arms around me. And I can f
 
 ---
 <p id = "Blog_37"></p>
-## blog_37
+## Blog_37
 
 
 > 前路漫漫,唯愿执子之手,与子偕老. 
+<br>晚安
+
+---
+<p id = "Blog_38"></p>
+## Blog_38
+
+
+> 你说那些烟花都长得一样,毫无兴致.
+<br>我心里的烟花独一无二,只为你一人绽放,你想要去看看吗?
 <br>晚安
 
 ---
