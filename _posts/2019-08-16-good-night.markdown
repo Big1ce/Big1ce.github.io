@@ -467,8 +467,8 @@ I love that feeling of being soft when you wrap your arms around me. And I can f
 ## Blog_39
 
 
-> 就算不读博了,这个世界也会变好的
-
+> 就算不读博了,你也会变成更好的自己,这个世界也会
+> 
 >                                --1029
 
 <br>我家欢快的无忧无虑的小胖墩儿终于回来了~ \\ (≥ ▽ ≤) /
