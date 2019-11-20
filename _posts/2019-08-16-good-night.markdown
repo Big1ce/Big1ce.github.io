@@ -474,7 +474,17 @@ I love that feeling of being soft when you wrap your arms around me. And I can f
 <br>晚安
 
 ---
+<p id = "Blog_40"></p>
+## Blog_40
 
+
+> 分别的第一天,也是想念的第一天
+>                                --1118
+
+<br>布鲁布鲁~ \\ (≥ ▽ ≤) /
+<br>晚安
+
+---
 
 
 
