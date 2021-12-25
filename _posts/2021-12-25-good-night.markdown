@@ -2,7 +2,7 @@
 layout:     post
 title:      "Merry Christmas"
 subtitle:   " Only for you"
-date:       2021-12-25 23:10:00
+date:       2021-12-25
 author:     "Big1ce"
 header-img: "img/post-bg-2015.jpg"
 tags:
